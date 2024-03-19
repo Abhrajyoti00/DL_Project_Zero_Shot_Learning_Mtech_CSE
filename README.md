@@ -11,6 +11,22 @@ Explore the heart of our project through the [Main Notebook](https://github.com/
 ### Demo Images
 Visualize the results with our curated [Demo Images](https://github.com/Abhrajyoti00/DL_Project_Zero_Shot_Learning_Mtech_CSE/tree/main/Src/demo_images). See the model in action, deciphering the intricacies of diverse bird species.
 
+
+
+## Examples:
+| | |
+|:-------------------------:|:-------------------------:|
+|<p align="center"><img src="https://github.com/leorrose/Image-classification-zero-shot-learning/blob/master/demo_images/chimpanzee.jpg" width="400" hieght="400" alt="chimpanzee"/></p>|<p align="center"><img src="https://github.com/leorrose/Image-classification-zero-shot-learning/blob/master/demo_images/computer_mouse.jpg" width="400" hieght="400" alt="computer mouse"/></p>|
+|<p align="center">Prediction: chimpanzee, chimp, monkey, baboon, orangutan</p>| <p align="center">Prediction: telephone, phone, telephon, telephones, land-line</p>|
+|<p align="center"><img src="https://github.com/leorrose/Image-classification-zero-shot-learning/blob/master/demo_images/petunia.jpg" width="400" hieght="400" alt="petunia"/></p>|<p align="center"><img src="https://github.com/leorrose/Image-classification-zero-shot-learning/blob/master/demo_images/rhino.jpg" width="400" hieght="400" alt="rhino"/></p>|
+|<p align="center">Prediction: rose, flower, tulip, carnation, marigold</p>|<p align="center">Prediction: elephant, tiger, lion, tusker, leopard</p>|
+|<p align="center"><img src="https://github.com/leorrose/Image-classification-zero-shot-learning/blob/master/demo_images/starfish.jpg" width="400" hieght="400" alt="starfish"/></p>|<p align="center"><img src="https://github.com/leorrose/Image-classification-zero-shot-learning/blob/master/demo_images/tansy.jpg" width="400" hieght="400" alt="tansy"/></p>|
+|<p align="center">Prediction: woodlouse, snake, crab, leatherjacket, blobfish</p>|<p align="center">Prediction: orange, purple, yellow, pink, red</p>|
+
+
+
+
+
 ### Requirements
 Embark on this journey by ensuring you have the key companions:
 ```bash
